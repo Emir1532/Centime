@@ -14,6 +14,340 @@
 				<!-- HEADER SECTION -->
 			<header>			</header>
 			<main>
+				<!-- AP MANAGEABLE SECTION -->
+				<section class="ap-manageable">
+					<div class="wrapper">
+						<div class="ap-description">
+							<div data-aos="fade-up">
+								<h2>Accounts Payable Automation</h2>
+								<p>Streamline AP, improve controls, drive electronic payments and <span>save up to 80% on processing costs.</span></p>
+							</div>
+							<ul data-aos="fade-up">
+								<li>
+									<img src="./assets/images/quickbooks-online.png" alt="Quickbooks online">
+								</li>
+								<li>
+									<img src="./assets/images/quickbooks-desktop.png" alt="Quickbooks desktop">
+								</li>
+								<li>
+									<img src="./assets/images/oracle-logo.png" alt="Oracle logo">
+								</li>
+							</ul>
+						</div>
+						<div>
+							<form data-aos="flip-left">
+								<ul>
+									<li>
+										<div class="invoice-icon">
+											<img src="./assets/images/invoice-icon.svg" alt="Invoice icon">
+										</div>
+										<img class="rotate-icon" src="./assets/images/rotate-icon.svg" alt="Rotate icon">
+										<img class="center-icon" src="./assets/images/logo-icon.svg" alt="Logo icon">
+										<figure>
+											<img src="./assets/images/pc.svg" alt="pc icon">
+										</figure>
+										<div class="dollar-icon">
+											<img src="./assets/images/dollar-icon.svg" alt="Dollar icon">
+										</div>
+										<div class="form-input-data">
+											<input type="text" name="email" placeholder="Work email">
+										</div>
+										<button>Book a demo</button>
+									</li>
+									<!-- <li>
+										<h3>We need few more details from you</h3>
+										<div class="form-input-data">
+											<input type="text" name="fname" placeholder="First name">
+										</div>
+										<div class="form-input-data">
+											<input type="text" name="lname" placeholder="Last name">
+										</div>
+										<div class="form-input-data">
+											<input type="text" name="company" placeholder="Company">
+										</div>
+										<div class="form-input-data">
+											<select name="job">
+												<option value="entity">Entity</option>
+												<option value="manager">Manager</option>
+												<option value="director">Director</option>
+												<option value="vice-president">Vice President</option>
+											</select>
+										</div>
+										<div class="form-input-data">
+											<select name="role">
+												<option value="entity">Entity</option>
+												<option value="manager">Manager</option>
+												<option value="director">Director</option>
+												<option value="vice-president">Vice President</option>
+											</select>
+										</div>
+										<button>Book a demo</button>
+									</li>
+									<li>
+										<div class="form-input-data">
+											<input type="text" name="lname" placeholder="Work email">
+										</div>
+										<button>Book a demo</button>
+									</li> -->
+								</ul>
+							</form>
+							<div class="award-badge" data-aos="fade-up">
+								<figure>
+									<img src="./assets/images/award-logo.png" alt="Award logo">
+								</figure>
+								<div>
+									<h4>Award winner</h4>
+									<p>Aite-Novarica Group named Centime its 2022 Commercial Banking Fintech of the Year</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
+				<!-- HOW IT WORKS SECTION -->
+				<section class="how-it-works">
+					<div class="wrapper">
+						<div class="video-content" data-aos="fade-up">
+							<h2>Video: See how Centime works</h2>
+							<p>For a full tour of the solution, book a demo.</p>
+						</div>
+						<figure>
+							<img src="./assets/images/play-btn.svg" alt="Play Button">
+						</figure>
+					</div>
+				</section>
+				<!-- AP AUTOMATION SECTION -->
+				<section class="ap-automation">
+					<div class="wrapper">
+						<h2 data-aos="fade-up">Centime AP Automation</h2>
+						<p data-aos="fade-up">Unlike other solutions, Centime uniquely enables businesses to plan supplier cash disbursements to optimize cash and cash flow</p>
+						<ul class="ap-automation-list">
+							<li class="yellow-badge">
+								<figure>
+									<img src="./assets/images/receive-invoice.svg" alt="Receive invoice">
+								</figure>
+								<h3 data-aos="zoom-in">Receive invoices</h3>
+							</li>
+							<li>
+								<figure>
+									<img src="./assets/images/capture-invoice.svg" alt="Capture invoice">
+								</figure>
+								<h3 data-aos="zoom-in">Capture invoices</h3>
+								<ul data-aos="fade-up">
+									<li>
+										<h4>Automated invoice data capture</h4>
+										<p>Capture and digitize every element of invoices</p>
+									</li>
+									<li>
+										<h4>Configurable invoice approval workflow</h4>
+										<p>Route invoices for approval based on supplier, dollar amount or other parameter</p>
+									</li>
+									<li>
+										<h4>Invoice posting to General Ledger</h4>
+										<p>Automatically post approved invoices to your GL</p>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<figure>
+									<img src="./assets/images/plan-payments.svg" alt="Plan payments">
+								</figure>
+								<h3 data-aos="zoom-in">Plan  payments</h3>
+								<ul data-aos="fade-up">
+									<li>
+										<h4>Cash forecasting</h4>
+										<p>View real-time cash forecast before making any decisions</p>
+									</li>
+									<li>
+										<h4>Scenario modeling</h4>
+										<p>Play out “what-if” scenarios when making payment decisions to understand the impact of cash</p>
+									</li>
+									<li>
+										<h4>Cash optimization</h4>
+										<p>Leverage integrated working capital line of credit, maximize credit card usage, avoid late fees and capture early pay discounts</p>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<figure>
+									<img src="./assets/images/make-payments.svg" alt="Make payments">
+								</figure>
+								<h3 data-aos="zoom-in">Make payments</h3>
+								<ul data-aos="fade-up">
+									<li>
+										<h4>Payment authorization</h4>
+										<p>Clearly segregate duties and ensure dual authority</p>
+									</li>
+									<li>
+										<h4>Payment execution</h4>
+										<p>Pay by check, ACH, or credit card send detailed remittance information instantly</p>
+									</li>
+									<li>
+										<h4>Post payments</h4>
+										<p>Automatically close invoices in your accounting system</p>
+									</li>
+								</ul>
+							</li>
+							<li class="yellow-badge">
+								<figure>
+									<img src="./assets/images/close-invoice.svg" alt="Close invoice">
+								</figure>
+								<h3 data-aos="zoom-in">Close invoices</h3>
+							</li>
+						</ul>
+					</div>
+				</section>
+				<!-- FEATURES SECTION -->
+				<section class="features">
+					<div class="wrapper">
+						<ul class="features-list">
+							<li>
+								<ul class="feature-headings" data-aos="zoom-in">
+									<li><h2>Features</h2></li>
+									<li>
+										<figure>
+											<img src="./assets/images/logo.png" alt="Centime logo">
+										</figure>
+									</li>
+									<li>
+										<figure>
+											<img src="./assets/images/logo-bill.png" alt="Bill logo">
+										</figure>
+									</li>
+									<li>
+										<figure>
+											<img src="./assets/images/logo-airbase.png" alt="Airbase logo">
+										</figure>
+									</li>
+									<li>
+										<figure>
+											<img src="./assets/images/logo-avidchange.png" alt="Avidchange logo">
+										</figure>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<ul data-aos="fade-up">
+									<li>
+										<p>Capture invoices</p>
+									</li>
+									<li>
+										<img src="./assets/images/circle.svg" alt="Circle">
+									</li>
+									<li>
+										<img src="./assets/images/circle.svg" alt="Circle">
+									</li>
+									<li>
+										<img src="./assets/images/circle.svg" alt="Circle">
+									</li>
+									<li>
+										<img src="./assets/images/circle.svg" alt="Circle">
+									</li>
+								</ul>
+							</li>
+							<li>
+								<ul data-aos="fade-up">
+									<li>
+										<p>Plan payments</p>
+									</li>
+									<li>
+										<img src="./assets/images/circle.svg" alt="Circle">
+									</li>
+									<li>
+										<img src="./assets/images/hollow-circle.svg" alt="Circle">
+									</li>
+									<li>
+										<img src="./assets/images/hollow-circle.svg" alt="Circle">
+									</li>
+									<li>
+										<img src="./assets/images/hollow-circle.svg" alt="Circle">
+									</li>
+								</ul>
+							</li>
+							<li>
+								<ul data-aos="fade-up">
+									<li>
+										<p>Make payments</p>
+									</li>
+									<li>
+										<img src="./assets/images/circle.svg" alt="Circle">
+									</li>
+									<li>
+										<img src="./assets/images/quarter-circle.svg" alt="Circle">
+									</li>
+									<li>
+										<img src="./assets/images/quarter-circle.svg" alt="Circle">
+									</li>
+									<li>
+										<img src="./assets/images/quarter-circle.svg" alt="Circle">
+									</li>
+								</ul>
+							</li>
+						</ul>
+						<p class="feature-note" data-aos="fade-up">Unlike other solutions, Centime empowers businesses to plan payments with forecasts and models to gauge their cash impact.</p>
+					</div>
+				</section>
+				<!-- FAQ SECTION -->
+				<section class="faq">
+					<div class="wrapper">
+						<h2 data-aos="fade-up">Is Centime right for you?</h2>
+						<p data-aos="fade-up">If your answer to any of these questions is ‘yes,’ Centime can help your business thrive</p>
+						<figure class="path-image">
+							<img src="./assets/images/Path.svg" alt="Path image">
+						</figure>
+						<div class="faq-listing">
+							<div data-aos="fade-up">
+								<ul>
+									<li><i class="fa fa-check fa-xs" aria-hidden="true"></i> Do you receive and process 25 or more invoices per month?</li>
+									<li><i class="fa fa-check fa-xs" aria-hidden="true"></i> Do you approve invoices ad hoc, by email or verbally?</li>
+									<li><i class="fa fa-check fa-xs" aria-hidden="true"></i> Could you time payments better with a cash forecast?</li>
+									<li><i class="fa fa-check fa-xs" aria-hidden="true"></i> Would you like to pay by card, even when suppliers don't accept credit cards?</li>
+									<li><i class="fa fa-check fa-xs" aria-hidden="true"></i> Is it a challenge to appropriately segregate duties and consistently follow best AP proactices?</li>
+								</ul>
+								<a href="#" title="Book A Demo">BOOK A DEMO</a>
+							</div>
+							<figure data-aos="zoom-in">
+								<img src="./assets/images/is-centime-right-for-you.png" alt="Demo image">
+							</figure>
+						</div>
+						<figure class="path-image">
+							<img src="./assets/images/Path.svg" alt="Path image">
+							<img src="./assets/images/Path.svg" alt="Path image">
+						</figure>
+					</div>
+				</section>
+				<!-- TESTIMONIALS SECTION -->
+				<section class="testimonials">
+					<div class="wrapper">
+						<h2 data-aos="fade-up">What people are saying about Centime</h2>
+						<ul data-aos="fade-up">
+							<li>
+								<p>Centime has made our AP team more productive, and our auditors are happy with the improved controls.</p>
+								<h3>Rob Rubin</h3>
+								<span>Sippewissett Highlands Homeowners Association</span>
+							</li>
+							<li>
+								<p>Centime has really helped our AP team know when to make payments, and has cut down on tedious data entry.</p>
+								<h3>-The CFO of a $10 million business</h3>
+							</li>
+						</ul>
+					</div>
+				</section>
+				<!-- TRANSFORM AP SECTION -->
+				<section class="transform-ap">
+					<div class="wrapper">
+						<div data-aos="fade-up">
+							<h2>Are you ready to transform AP?</h2>
+							<a href="#" title="Book A Demo">BOOK A DEMO</a>
+						</div>
+						<div class="image-holder" data-aos="zoom-in">
+							<img class="butterfly-img" src="./assets/images/only-butterfly.svg" alt="Butterfly image">
+							<img class="demo-img" src="./assets/images/demo-image.png" alt="Demo image">
+						</div>
+					</div>
+				</section>
+				<figure class="back-to-top">
+					<img src="./assets/images/scroll-up.svg" alt="Scroll up">
+				</figure>
 			</main>
 
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
